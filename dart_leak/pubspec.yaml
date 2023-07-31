@@ -1,0 +1,12 @@
+name: dart_leak
+description: Memory leak example
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.6
+
+dependencies:
+  ffi:
+
+dev_dependencies:
+  lints: ^2.0.0
